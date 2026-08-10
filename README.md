@@ -1,3 +1,7 @@
+# Live Demo
+
+[Try the Customer Churn Prediction App](https://sanket-customer-churn-3626.streamlit.app)
+
 # Customer Churn Prediction
 
 A machine learning project that predicts whether a customer is likely to churn based on their demographic details, services, contract information, and billing details.
